@@ -1,0 +1,40 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+.headerdesign{
+    height: 50px !important;
+    background-color: #81B92C !important;
+    /* width: 100px !important; */
+    margin-left: -30px !important;
+    margin-right: -30px !important;
+    margin-top: -10px !important;
+    text-align: center !important;
+    padding: 10px !important;
+    color: white;
+    font-size: 20px !important;
+}
+.img_signdf{
+	    float: right !important;
+    position: absolute !important;
+    /* right: 5px; */
+    top: 30px !important;
+    left: 15px !important;
+}
+
+
+
+
+
+
+
+
+
+
